@@ -1,0 +1,93 @@
+.main-body{
+    height: 369px;
+    width: 290px;
+    margin-top: 50%;
+    padding-top: 40%;
+    background-image: url(../Assests/3.jpg);
+}
+
+.main-int{
+    color: white;
+    padding: 0 0 0 20px;
+    margin: 0;
+}
+
+h1{
+    color: white;
+    padding-top: 20px;
+}
+
+.main-name{
+    text-align: center;
+}
+h2 {
+    padding-top: 10px;
+}
+
+h1, h2, p {
+    margin: 0;
+}
+
+p {
+    font-size: small;
+}
+
+.name-p1{
+    color: rgb(211, 163, 41);
+    font-size:medium;
+}
+
+.name-p2{
+    color: white;
+}
+
+
+.btn-1, .btn-2 {
+    display: inline-flex;height: 30px;
+    align-items: center;
+    padding: 0 8px;
+    width: auto;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    overflow: hidden;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+    margin-top: 10px;
+    
+}
+
+.btn--text,
+.logo-1,
+.logo-2{
+    display: inline-flex;
+    align-items: center;
+}
+.btn--text-1,
+.btn--text-2 {
+    font-size: 15px;
+}
+
+.logo-1, .logo-2 {
+    width: 15px;
+    padding: 0;
+    padding-top: 5px;
+    margin-right: 10px;
+}
+.btn--text-2{
+    color: white;
+}
+
+
+
+.btn-1{
+    margin-right: 10px;
+    height: 28px;
+}
+
+.btn-2{
+    margin-left: 10px;
+    background-color: rgb(46, 96, 246);
+}

@@ -1,0 +1,11 @@
+.main-header{
+    width: 290px;
+    height: 270px;
+    position: absolute;
+}
+
+.image{
+    width: 290px;
+    height: 290px;
+    border-radius: 12px 12px 0 0;
+}
